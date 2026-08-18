@@ -1,0 +1,39 @@
+[
+  {
+    "file": "showcase-1-linear-search.jpg",
+    "bytes": 59205,
+    "parts": [
+      "showcase-1-linear-search.jpg.part01.b64",
+      "showcase-1-linear-search.jpg.part02.b64",
+      "showcase-1-linear-search.jpg.part03.b64",
+      "showcase-1-linear-search.jpg.part04.b64",
+      "showcase-1-linear-search.jpg.part05.b64"
+    ],
+    "b64_len": 78940
+  },
+  {
+    "file": "showcase-2-unified-search.jpg",
+    "bytes": 55842,
+    "parts": [
+      "showcase-2-unified-search.jpg.part01.b64",
+      "showcase-2-unified-search.jpg.part02.b64",
+      "showcase-2-unified-search.jpg.part03.b64",
+      "showcase-2-unified-search.jpg.part04.b64",
+      "showcase-2-unified-search.jpg.part05.b64"
+    ],
+    "b64_len": 74456
+  },
+  {
+    "file": "showcase-3-system-of-record.jpg",
+    "bytes": 76328,
+    "parts": [
+      "showcase-3-system-of-record.jpg.part01.b64",
+      "showcase-3-system-of-record.jpg.part02.b64",
+      "showcase-3-system-of-record.jpg.part03.b64",
+      "showcase-3-system-of-record.jpg.part04.b64",
+      "showcase-3-system-of-record.jpg.part05.b64",
+      "showcase-3-system-of-record.jpg.part06.b64"
+    ],
+    "b64_len": 101772
+  }
+]
